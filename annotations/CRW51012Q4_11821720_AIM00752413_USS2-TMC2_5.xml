@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataaset</folder>
+	<filename>CRW51012Q4_11821720_AIM00752413_USS2-TMC2_5.jpg</filename>
+	<path>/home/vinamra/personalproj/tensorr/dataaset/CRW51012Q4_11821720_AIM00752413_USS2-TMC2_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watchback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1133</xmin>
+			<ymin>562</ymin>
+			<xmax>1565</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uploads</folder>
+	<filename>CRW51012Q4_11819567_AIM00747505_USS2-TMC2_7.jpg</filename>
+	<path>/home/vinamra/eclipse-workspace/imagine/public/uploads/CRW51012Q4_11819567_AIM00747505_USS2-TMC2_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watchback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1138</xmin>
+			<ymin>951</ymin>
+			<xmax>2036</xmax>
+			<ymax>1333</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uploads</folder>
+	<filename>CRW51012Q4_11818538_AIM00053454_3027-CAR-Dallas_3.jpg</filename>
+	<path>/home/vinamra/eclipse-workspace/imagine/public/uploads/CRW51012Q4_11818538_AIM00053454_3027-CAR-Dallas_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>1748</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watchback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1143</xmin>
+			<ymin>291</ymin>
+			<xmax>2014</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

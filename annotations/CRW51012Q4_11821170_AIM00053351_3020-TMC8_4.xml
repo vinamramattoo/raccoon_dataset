@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataaset</folder>
+	<filename>CRW51012Q4_11821170_AIM00053351_3020-TMC8_4.jpg</filename>
+	<path>/home/vinamra/personalproj/tensorr/dataaset/CRW51012Q4_11821170_AIM00053351_3020-TMC8_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watchback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1249</xmin>
+			<ymin>1009</ymin>
+			<xmax>1665</xmax>
+			<ymax>1355</ymax>
+		</bndbox>
+	</object>
+</annotation>

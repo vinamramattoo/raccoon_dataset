@@ -1,0 +1,26 @@
+<annotation>
+	<folder>uploads</folder>
+	<filename>CRW51012Q4_11819422_AIM00187277_3037-CAR-Mansion2_7.jpg</filename>
+	<path>/home/vinamra/eclipse-workspace/imagine/public/uploads/CRW51012Q4_11819422_AIM00187277_3037-CAR-Mansion2_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2650</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watchback</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1026</xmin>
+			<ymin>961</ymin>
+			<xmax>2085</xmax>
+			<ymax>1461</ymax>
+		</bndbox>
+	</object>
+</annotation>
