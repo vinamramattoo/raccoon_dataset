@@ -1,0 +1,23 @@
+<annotation>
+    <folder>PGG0A00469</folder>
+    <filename>PGG0A00469_11444656_AIM00236187_USS2-TMC3_3.jpg</filename>
+    <size>
+        <width>3000</width>
+        <height>1700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Watch BackCase</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1304</xmin>
+            <ymin>344</ymin>
+            <xmax>2017</xmax>
+            <ymax>929</ymax>
+        </bndbox>
+    </object>
+</annotation>

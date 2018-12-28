@@ -1,0 +1,23 @@
+<annotation>
+    <folder>PGG0A00469</folder>
+    <filename>PGG0A00469_11124726_AIM48279_USS2-2_J2.jpg</filename>
+    <size>
+        <width>2700</width>
+        <height>1737</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Watch BackCase</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>691</xmin>
+            <ymin>421</ymin>
+            <xmax>1271</xmax>
+            <ymax>848</ymax>
+        </bndbox>
+    </object>
+</annotation>
