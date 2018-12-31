@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CRW8000005</folder>
+	<filename>CRW8000005_11500162_AIM00303315_USS2-TMC3_4.jpg</filename>
+	<path>/Users/nithinkamath/Downloads/sia pilot/CRW8000005/CRW8000005_11500162_AIM00303315_USS2-TMC3_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch Back Case</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1322</xmin>
+			<ymin>910</ymin>
+			<xmax>2222</xmax>
+			<ymax>1607</ymax>
+		</bndbox>
+	</object>
+</annotation>

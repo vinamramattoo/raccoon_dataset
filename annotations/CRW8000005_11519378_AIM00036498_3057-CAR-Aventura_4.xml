@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CRW8000005</folder>
+	<filename>CRW8000005_11519378_AIM00036498_3057-CAR-Aventura_4.jpg</filename>
+	<path>/Users/nithinkamath/Downloads/sia pilot/CRW8000005/CRW8000005_11519378_AIM00036498_3057-CAR-Aventura_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3050</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch Back Case</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1254</xmin>
+			<ymin>1457</ymin>
+			<xmax>2234</xmax>
+			<ymax>2154</ymax>
+		</bndbox>
+	</object>
+</annotation>

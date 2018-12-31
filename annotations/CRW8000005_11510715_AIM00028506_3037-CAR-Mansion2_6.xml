@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CRW8000005</folder>
+	<filename>CRW8000005_11510715_AIM00028506_3037-CAR-Mansion2_6.jpg</filename>
+	<path>/Users/nithinkamath/Downloads/sia pilot/CRW8000005/CRW8000005_11510715_AIM00028506_3037-CAR-Mansion2_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3050</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch Back Case</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1010</xmin>
+			<ymin>688</ymin>
+			<xmax>1968</xmax>
+			<ymax>1288</ymax>
+		</bndbox>
+	</object>
+</annotation>

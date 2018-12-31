@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CRW8000005</folder>
+	<filename>CRW8000005_11535718_AIM00032115_3020-TMC8_6.jpg</filename>
+	<path>/Users/nithinkamath/Downloads/sia pilot/CRW8000005/CRW8000005_11535718_AIM00032115_3020-TMC8_6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Watch Back Case</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymin>325</ymin>
+			<xmax>1984</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>
